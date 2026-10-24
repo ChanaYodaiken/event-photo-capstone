@@ -17,6 +17,7 @@ in the file package.json: in scripts
     i change it:     "dev": "tsx watch src/server.ts",
     to be it: "dev": "ts-node src/server.ts",
     i run this command in the terminal: npm install ts-node --save-dev
+    but it still not work!
 
 
 
