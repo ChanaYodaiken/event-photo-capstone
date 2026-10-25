@@ -38,7 +38,13 @@
 | acceptance criteria | | |
 | ambiguity | | |
 | missing information | | |
-| scope | | |
+| scope | | | 
+
+Changing the title could affect the following functions:
+1.   listEvents(photographerId: string)
+2.   getGallery(eventId: string, photographerId: string)
+3.   getClientGallery(eventId: string, clientId: string) 
+
 
 ## 8. Questions, assumptions, ambiguities
 | Question or assumption | Why it matters | Evidence/status | Who decides? |
